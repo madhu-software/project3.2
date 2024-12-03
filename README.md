@@ -10,8 +10,8 @@
 
 ## RAN16K
 
-<img src="Screenshot 2024-12-03 180714.png>" />
+<img src="./Screenshot 2024-12-03 180714.png>" />
 
 ## PC
 
-<img src="Screenshot 2024-12-03 181300.png/>
+<img src="./Screenshot 2024-12-03 181300.png" />
